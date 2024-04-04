@@ -63,7 +63,7 @@ export default function App() {
                   data-bs-toggle="modal"
                   data-bs-target="#createTodo"
                 >
-                  <FontAwesomeIcon icon={faAddressBook} /> Add Info
+                  <FontAwesomeIcon icon={faAddressBook} /> Add Information
                 </button>
               </div>
             </div>

@@ -37,30 +37,21 @@
       "dateOfBirth": "1999-03-31"
     },
     {
-      "institute": "University of Rajshahi",
+      "institute": "University of Oxford",
       "session": "2019-2020",
-      "studentId": 2010734210,
-      "email": "atiqurmia@gmail.com",
-      "fName": "Atiqur Mia",
-      "id": "2996",
-      "dateOfBirth": "2003-02-02"
-    },
-    {
-      "id": "4d19",
-      "institute": "University of Rajshahi",
-      "session": "2019-2020",
-      "studentId": 2010934120,
+      "studentId": 2010935150,
       "email": "delowerhossain@gmail.com",
       "fName": "Delower Hossain",
+      "id": "4d19",
       "dateOfBirth": "2000-05-04"
     },
     {
-      "id": "485f",
       "institute": "University of Rajshahi",
       "session": "2000-2001",
-      "studentId": 2010934120,
+      "studentId": 2010936190,
       "email": "smakbor@gmail.com",
       "fName": "SM Akbor",
+      "id": "485f",
       "dateOfBirth": "1999-03-04"
     },
     {

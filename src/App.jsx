@@ -11,7 +11,6 @@ import {
   faPenToSquare,
   faTrashCan,
 } from "@fortawesome/free-solid-svg-icons";
-import Animation from "./style/animation.module.css";
 export default function App() {
   const [state, setState] = useState([]);
   const [view, setView] = useState({});
@@ -44,26 +43,26 @@ export default function App() {
   return (
     <>
       {state.length > 0 ? (
-        <div className="container-fluid px-5">
+        <div className="container-fluid px-5 pt-3">
           <div className="row fw-bold justify-content-between">
             <p className="col-7 text-end fs-3 pt-3">Student Information</p>
-            <div className="col-4 row pt-3 text-end justify-content-between ps-5">
-              <span className="fs-3 text-danger col-7 ps-5">
+            <div className="col-4 row pt-3 text-end ps-5">
+              <span className="fs-3 text-danger col-7 ps-4">
                 Click Here <FontAwesomeIcon icon={faHandPointRight} />
               </span>
-              <div className="col-5 mb-3 fs-4 fw-bold text-end">
+              <div className="col-5 mb-3 fs-4 fw-bold">
                 <button
                   type="button"
-                  className={Animation.animate}
+                  className="bg-primary text-light"
                   style={{
                     border: "none",
-                    padding: "8px",
+                    padding: "10px",
                     borderRadius: "10px",
                   }}
                   data-bs-toggle="modal"
                   data-bs-target="#createTodo"
                 >
-                  <FontAwesomeIcon icon={faAddressBook} /> Add Information
+                  <FontAwesomeIcon icon={faAddressBook} /> Add Info
                 </button>
               </div>
             </div>

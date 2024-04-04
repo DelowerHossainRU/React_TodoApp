@@ -1,0 +1,94 @@
+{
+  "student": [
+    {
+      "institute": "University of Chattagramm",
+      "session": "2019-2020  ",
+      "studentId": 2010334190,
+      "email": "sharifulislam@gmail.comm",
+      "fName": "Shariful Islam ",
+      "dateOfBirth": "1999-02-19",
+      "id": "01f8"
+    },
+    {
+      "id": "dc4c",
+      "institute": "University of Barisal",
+      "session": "2020-2021",
+      "studentId": 2110425110,
+      "email": "najmul@gmail.com",
+      "fName": "Najmul Hasan",
+      "dateOfBirth": "2000-08-05"
+    },
+    {
+      "institute": "University of Colombo",
+      "session": "2017-2018",
+      "studentId": 2010439240,
+      "email": "selimhoque@gmail.com",
+      "fName": "Selim Hoque",
+      "id": "0d48",
+      "dateOfBirth": "1930-03-31"
+    },
+    {
+      "institute": "HSTU",
+      "session": "2019-2020 ",
+      "studentId": 2019932102,
+      "email": "rifathossain@gmail.com",
+      "fName": "Rifat Hossain",
+      "id": "4428",
+      "dateOfBirth": "1999-03-31"
+    },
+    {
+      "institute": "University of Rajshahi",
+      "session": "2019-2020",
+      "studentId": 2010734210,
+      "email": "atiqurmia@gmail.com",
+      "fName": "Atiqur Mia",
+      "id": "2996",
+      "dateOfBirth": "2003-02-02"
+    },
+    {
+      "id": "4d19",
+      "institute": "University of Rajshahi",
+      "session": "2019-2020",
+      "studentId": 2010934120,
+      "email": "delowerhossain@gmail.com",
+      "fName": "Delower Hossain",
+      "dateOfBirth": "2000-05-04"
+    },
+    {
+      "id": "485f",
+      "institute": "University of Rajshahi",
+      "session": "2000-2001",
+      "studentId": 2010934120,
+      "email": "smakbor@gmail.com",
+      "fName": "SM Akbor",
+      "dateOfBirth": "1999-03-04"
+    },
+    {
+      "institute": "University of Colombo",
+      "session": "2017-2018",
+      "studentId": 2010439240,
+      "email": "selimhoque@gmail.com",
+      "fName": "Selim Hoque",
+      "id": "0d48",
+      "dateOfBirth": "1930-03-31"
+    },
+    {
+      "institute": "HSTU",
+      "session": "2019-2020 ",
+      "studentId": 2019932102,
+      "email": "rifathossain@gmail.com",
+      "fName": "Rifat Hossain",
+      "id": "4428",
+      "dateOfBirth": "1999-03-31"
+    },
+    {
+      "institute": "University of Rajshahi",
+      "session": "2019-2020",
+      "studentId": 2010734210,
+      "email": "atiqurmia@gmail.com",
+      "fName": "Atiqur Mia",
+      "id": "2996",
+      "dateOfBirth": "2003-02-02"
+    }
+  ]
+}
